@@ -1,3 +1,6 @@
+
+"""
+
 from Bot import Bot
 
 
@@ -22,3 +25,4 @@ if __name__ == "__main__":
                 bot.book.save("auto_save")
         if action == 'exit':
             break
+"""

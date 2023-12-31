@@ -1,3 +1,4 @@
+"""
 from AddressBook import *
 
 
@@ -47,3 +48,15 @@ class Bot:
             pass
         else:
             print("There is no such command!")
+"""
+
+"""
+    bot_class = choice.get('load', AddContact)
+    print(bot_class)
+
+    try:
+        bot_class.handle()
+        bot_class.book.load("auto_save")
+    except Exception as e:
+        print(f"Error loading address book: {e}")
+"""
