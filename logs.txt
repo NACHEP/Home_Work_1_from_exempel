@@ -27,3 +27,7 @@
 [01:25:58] Contact natalia has been added.
 [01:25:58] Addressbook has been saved!
 [01:26:03] Addressbook has been loaded!
+[15:12:22] Addressbook has been loaded!
+[15:13:15] Contact Aleks has been added.
+[15:13:15] Addressbook has been saved!
+[15:13:29] Addressbook has been loaded!
