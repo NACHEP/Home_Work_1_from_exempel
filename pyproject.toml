@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "home-work-1-from-exempel"
+version = "0.1.0"
+description = ""
+authors = ["NACHEP <143324418+NACHEP@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+black = "^23.12.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
